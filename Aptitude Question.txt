@@ -1,0 +1,277 @@
+
+## SECTION 1
+
+1. The average weight of four boys A, B, C, and D is 75 kg. The fifth boy E is included
+and the average weight decreases by 4 kg. A is replaced by F. The weight of F is 6
+kg more than E. Average weight decreases because of the replacement of A and
+now the average weight is 72 kg. Find the weight of A.
+1) 57 kg
+2) 54 kg
+3) 56 kg
+4) 60 kg
+5) 58 kg
+
+2. If a discount of 16% is given on the marked price of a book, the publisher gains
+20%. If the discount is increased to 20% the gain percent is
+1) 14 2/7%
+2) 14 1/7%
+3) 14 3/7%
+4) 14 4/7%
+5) 14 5/7%
+
+3. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
+litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
+water in the remaining mixture. What is the percentage of water in the final mixture?
+1) 29.35%
+2) 28. 57%
+3) 24. 57%
+4) 27. 75%
+5) 26. 57%
+
+4. A rectangular plot has a concrete path running inner side of the plot is used as a
+lawn, which has an area of 432 sq.m. If the width of the path is 4 m and the length of
+the plot is greater than its breadth by 2m, what is the area of the rectangular plot?
+1) 980 m^2
+2) 975 m^2
+3) 984 m^2
+4) 960 m^2
+5) 965 m^2
+
+5. Difference between the compound interest and the simple interest accrued on an
+amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
+1) 14%
+2) 16%
+3) 12.5%
+4) 15%
+5) 15.5%
+
+6. 12 men can complete any work in 36 days. 18 women can complete the same piece of work in 60 days.
+8 men and 20 women work together for 20 days. If only the
+women were to complete the remaining work in 4 days, then how many women
+would be required?
+
+
+7.Out of 5 women and 4 men, a committee of three members is to be formed in
+such a way that at least one member is woman. In how many different ways can this
+be done?
+1) 60
+2) 100
+3) 120
+4) 90
+5) 80
+
+8. Excluding the stoppages, the speed of a bus is 64 km/hr and including the
+stoppages the speed of the bus is 48km/hr. For how many minutes does the bus
+stop per hour?
+1) 15 min
+2) 10 min
+3) 12 min
+4) 20 min
+5) 18 min
+
+9. A box contains 2 black, 3 orange and 4 pink ribbons. If two ribbons are drawn at
+random. What is the probability that both are orange?
+1) 5/12
+2) 1/13
+3) 1/14
+4) 1/12
+5) 1/24
+
+10. Pradeep invested 20% more than Mohit. Mohit invested 10% less than Raghu. If
+the total sum of their investment is Rs. 17880, how much amount did Raghu
+invested?
+1) Rs. 5000
+2) Rs. 6500
+3) Rs. 6000
+4) Rs. 7500
+5) Rs. 5500
+
+
+## SECTION 2 : Data Interpretation
+
+
+1. In 2001, 6400 candidates appeared at the exam and 40% of them qualified. In 2005 the
+ratio between qualified males and females was 3:5. What is the total number of female
+candidates who qualified in these two years?
+A. 1120
+B. 1220
+C. 1330
+D. 1150
+E. None of the Above
+
+2. In 2004, what percent of male candidates did qualify in the exam among all qualified
+candidates?
+A. 51%
+B. 61%
+C. 55%
+D. 56%
+E. None of the Above
+
+3. In 2002, 54% of appeared candidates did qualify. How many female candidates did
+qualify in the exam?
+A. 280
+B. 170
+C. 180
+D. 250
+E. 240
+
+4. In 2003, a total of 68 male candidates did qualify. What is the respective ratio between
+males and females who had qualified in 2003?
+A. 11:25
+B. 19:25
+C. 17:25
+D. 25:13
+E. 13:19
+
+5. What is the average number of candidates who did not qualify in the exam in the years
+2003 and 2005?
+A. 576
+B. 556
+C. 528
+D. 546
+E. None of the Above
+
+5. What is the average number of candidates who did not qualify in the exam in the years
+2003 and 2005?
+A. 576
+B. 556
+C. 528
+D. 546
+E. None of the Above
+
+6. In 2003, if the number of female qualified candidates was 70, what was the respective
+ratio of number of female qualified candidates and number of male qualified candidates
+same year?
+A. 5:9
+B. 7:11
+C. 10:11
+D. 10:13
+E. 5:7
+
+
+7. Number of appeared candidates increased by 20% from 2002 to 2006. If 25% of the
+appeared candidates qualified in 2006, what was the number of qualified candidates in
+2006?
+A. 205
+B. 225
+C. 245
+D. 240
+E. 230
+
+8. If the average number of qualified candidates in 2002 and 2005 was 433, what percent of
+appeared candidates qualified in the competitive exam in 2002?
+A. 60%
+B. 75%
+C. 45%
+D. 70%
+E. 50%
+
+9. In 2004, if the difference between number of male qualified candidates and number of
+female qualified candidates was 120, what was the number of appeared candidates in
+2004?
+A. 840
+B. 800
+C. 660
+D. 600
+E. 720
+
+10. In 2001, the respective ratio of number of appeared candidates to qualified candidates
+was 5:2. Number of female candidates qualified in 2001 constitutes what percent of the
+number of appeared candidates in the same year?
+A. 15%
+B. 25%
+C. 125%
+D. 20%
+E. Can not be determined
+
+
+SECTION 3 :
+
+
+1).Which institute has the highest percentage of candidates successful to enrolled?
+a) D
+b) E
+c) A
+d) F
+e) None of these
+
+2).What percent of candidates from institute D have come out to be successful out of
+the total candidates enrolled from this institute?
+a) 115
+b) 95
+c) 80
+d) 85
+e) None of these
+
+3).What is the approximate percentage of candidates successful to enrolled from
+institute A?
+a) 92
+b) 89
+c) 86
+d) 96
+e) 88
+
+4).What is the ratio between the enrolled and successful candidates from the
+institutes B and C together?
+a) 55:12
+b) 5:7
+c) 135:271
+d) 5:3
+e) None of these
+
+5).What is the percentage of successful candidates from institute E and F together
+over the candidates enrolled from these institutes together?
+a) 76
+b) 105
+c) 80
+d) 74
+e) None of these
+
+
+6).If total income of company B in 2008 was Rs.140 crore, what was the total
+expenditure of that company in the same year? (approx)
+a) Rs.100.66 cr.
+b) Rs.110.33 cr.
+c) Rs.98.22 cr.
+d) Rs.94.90 cr.
+e) Rs.96.55 cr.
+
+7).If total expenditure of company B in 2009 and 2010 was Rs.270 crore, what was
+total income of that company in both the same years?
+a) Rs.121.5 cr.
+b) Rs.135 cr.
+c) Rs.140 cr.
+d) Data inadequate
+e) None of these
+
+8).In which year was the total income more than double the total expenditure in that
+year for company A?
+a) 2010
+b) 2009
+c) 2011
+d) 2008
+e) None of these
+
+9).If the total expenditure of company A in 2010 was Rs.200 cr. What was the total
+income of that company in the same year?
+a) Rs.260 cr.
+b) Rs.300 cr.
+c) Rs.160 cr.
+d) Data inadequate
+e) None of these
+
+10).If the income of company A in 2009 was Rs.100 cr. Then what was the
+expenditure of company B in that year?
+a) Rs.150 cr.
+b) Rs.120 cr.
+c) Rs.140 cr.
+d) Can’t be determined
+e) None of these
+
+
+
+
+
+
+
+
