@@ -17,7 +17,7 @@
  # Method 2 : GitHub Portal
  
  
-# # HOW TO CONTRIBUTE?
+## HOW TO CONTRIBUTE?
 
 
 # Step 1 : Fork Repo
