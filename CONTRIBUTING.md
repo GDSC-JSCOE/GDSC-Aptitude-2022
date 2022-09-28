@@ -1,3 +1,5 @@
+# Method 1 : CLI
+
 ## How to contribute?
     
     Step 1 : Fork the project repository
@@ -10,6 +12,19 @@
     Step 8 : Make changes in your local repository
     Step 9 : Commit your changes
     Step 10 : Push your changes to your fork
+    
+  
+ # Method 2 : GitHub Portal
+ 
+ 
+# # HOW TO CONTRIBUTE?
+
+
+# Step 1 : Fork Repo
+
+# Step 2 : Commit Changes
+
+# Step 3 : Create Pull Request
 
 
 #                 Begin the pull request!!!
