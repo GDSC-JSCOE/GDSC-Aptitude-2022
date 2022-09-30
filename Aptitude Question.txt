@@ -338,3 +338,11 @@ C.	324 metres
 D.	150 metres
 
 ans : D : 150 metres
+
+What is the average of first five multiples of 12?
+A.36
+B.38
+C.40
+D.42
+
+ANS : A
