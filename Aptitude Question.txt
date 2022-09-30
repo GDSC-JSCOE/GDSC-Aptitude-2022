@@ -387,3 +387,11 @@ B.	225 m
 C.	245 m
 D.	250 m
 Ans : C - 245
+
+18)Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?
+
+A.	Rs. 6400
+B.	Rs. 6500
+C.	Rs. 7200
+D.	Rs. 7500
+Ans A-Rs 6400
