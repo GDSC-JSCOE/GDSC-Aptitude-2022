@@ -379,3 +379,12 @@ C.	33
 D.	9
 
 Ans: B - 20
+
+17)Today it is Thursday.After 132 days,it will be
+
+A. Monday
+B.Sunday
+C.Wednesday
+D.Thursday
+
+Ans:c-Wednesday
