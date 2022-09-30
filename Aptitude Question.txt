@@ -486,5 +486,11 @@ B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
 
+21)In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?
+A.	30%
+B.	70%
+C.	100%
+D.	250%
+Ans: B -70%
 
 
