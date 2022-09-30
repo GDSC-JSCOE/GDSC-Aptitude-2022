@@ -114,6 +114,22 @@ x = Rs. 6000
 
 Answer : 3)
 
+11. With the money I have, I can buy 50 pens or 150 pencils. I kept 10% aside for taxi fare. With the remaining, I purchased 54 pencils and P pens. What is the value of P?
+1) 32
+2) 30
+3) 27
+4) None  of  these  
+
+Solution:
+Since cost of, 50 pens = 150 pencils, With the cost of 3 pencils I can buy 1 pen.
+After putting aside 10% for taxi I was left with 90% of the money, with which I can buy 135 pencils (90% of 150) or 45(90% of 50) pens,
+I bought 54 pencils and P pens, or I could have bought (54 + 3P) pencil,
+54 + 3P = 135,
+3P = 135 - 54 = 81,
+P = 27
+
+Answer : 3) 27
+
 
 ## SECTION 2 : Data Interpretation
 
