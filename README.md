@@ -24,7 +24,7 @@
 
 # Step 1 : Fork Repo
 
-# Step 2 : Commit Changes
+# Step 2 : Commit Changes by adding the answers of the questions
 
 # Step 3 : Create Pull Request
 
