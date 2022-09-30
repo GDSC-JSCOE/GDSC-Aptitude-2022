@@ -349,3 +349,12 @@ C.40
 D.42
 
 ANS : A
+
+ Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+
+1.Rs. 5222.2
+2.Rs. 5777.7
+3.Rs. 6222.2
+4.Rs. 6777.7
+
+Ans:2.5777.7
