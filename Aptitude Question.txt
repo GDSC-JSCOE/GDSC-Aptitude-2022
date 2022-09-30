@@ -493,4 +493,13 @@ B. 20 min past 7 pm and Thursday
 C. 21 min past 7 pm and Thursday
 D. 20 min past 7 pm and Wednesday
 Answer: b -20 min past 7 pm and Thursday
+
+22)On the birthday of Sam, Param gave him an alarm clock, now Sam sets alarm at 5 am, and  Sam notices that:
+The clock loses 960 seconds in last one day. Effectively, the clock indicates 10:00 pm on the 4th day. Find out the original time of the clock:
+A. 9 p
+B. 10 pm
+C. 11 pm
+D. 08 pm
+Answer: c - 11 pm
 =======
+
