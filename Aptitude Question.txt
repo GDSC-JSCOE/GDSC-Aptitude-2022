@@ -46,6 +46,7 @@ amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
 3) 12.5%
 4) 15%
 5) 15.5%
+ANS = 4 (15%)
 
 6. 12 men can complete any work in 36 days. 18 women can complete the same piece of work in 60 days.
 8 men and 20 women work together for 20 days. If only the
