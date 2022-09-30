@@ -39,6 +39,7 @@ the plot is greater than its breadth by 2m, what is the area of the rectangular 
 3) 984 m^2
 4) 960 m^2
 5) 965 m^2
+ans: 4)960 m^2
 
 5. Difference between the compound interest and the simple interest accrued on an
 amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
