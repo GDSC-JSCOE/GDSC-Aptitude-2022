@@ -300,44 +300,8 @@ E. 720
 section:3
 
 
-
-
-
-33. In 2002, 55% of appeared candidates did qualify. How many female candidates did
-qualify in the exam?
-A. 280
-B. 170
-C. 180
-D. 350
-E. 300
-
-
-
-
-
-A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
-
-A.	120 metres
-B.	180 metres
-C.	324 metres
-D.	150 metres
-
-
-
-
-
-
-
-
-
-
-
-432525. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
-litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
-water in the remaining mixture. What is the percentage of water in the final mixture?
-1) 29.35%
-2) 28. 57%
-3) 24. 57%
-4) 27. 75%
-5) 26. 57%
-
+13).Out of all the 2-digit integers between 1 and 100, a 2-digit number has to be selected at random. What is the probability that the selected number is not divisible by 7?
+A.13/90
+B.12/90
+C.78/90
+D.77/90
