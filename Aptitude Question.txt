@@ -493,4 +493,10 @@ B. 20 min past 7 pm and Thursday
 C. 21 min past 7 pm and Thursday
 D. 20 min past 7 pm and Wednesday
 Answer: b -20 min past 7 pm and Thursday
+
+22)At the time of 15:40 in clock, what is the angle between hour hand and minute hand.
+A. 120 degrees
+B. 135 degrees
+C. 140 degrees
+D. 130 degrees
 =======
