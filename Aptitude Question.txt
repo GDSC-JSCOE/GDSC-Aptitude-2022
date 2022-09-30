@@ -29,6 +29,7 @@ water in the remaining mixture. What is the percentage of water in the final mix
 3) 24. 57%
 4) 27. 75%
 5) 26. 57%
+ans : 28. 57%
 
 4. A rectangular plot has a concrete path running inner side of the plot is used as a
 lawn, which has an area of 432 sq.m. If the width of the path is 4 m and the length of
@@ -38,6 +39,7 @@ the plot is greater than its breadth by 2m, what is the area of the rectangular 
 3) 984 m^2
 4) 960 m^2
 5) 965 m^2
+ans : 960 m^2
 
 5. Difference between the compound interest and the simple interest accrued on an
 amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
@@ -46,11 +48,13 @@ amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
 3) 12.5%
 4) 15%
 5) 15.5%
+ans : 15%
 
 6. 12 men can complete any work in 36 days. 18 women can complete the same piece of work in 60 days.
 8 men and 20 women work together for 20 days. If only the
 women were to complete the remaining work in 4 days, then how many women
 would be required?
+ans : 70
 
 
 7.Out of 5 women and 4 men, a committee of three members is to be formed in
@@ -61,6 +65,7 @@ be done?
 3) 120
 4) 90
 5) 80
+ans : 120
 
 8. Excluding the stoppages, the speed of a bus is 64 km/hr and including the
 stoppages the speed of the bus is 48km/hr. For how many minutes does the bus
