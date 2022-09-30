@@ -189,6 +189,7 @@ B. 75%
 C. 45%
 D. 70%
 E. 50%
+Ans=A.60%
 
 9. In 2004, if the difference between number of male qualified candidates and number of
 female qualified candidates was 120, what was the number of appeared candidates in
