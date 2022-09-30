@@ -11,6 +11,7 @@ now the average weight is 72 kg. Find the weight of A.
 4) 60 kg
 5) 58 kg
 Ans: 56 kg
+
 2. If a discount of 16% is given on the marked price of a book, the publisher gains
 20%. If the discount is increased to 20% the gain percent is
 1) 14 2/7%
@@ -18,6 +19,7 @@ Ans: 56 kg
 3) 14 3/7%
 4) 14 4/7%
 5) 14 5/7%
+ans : 3)
 
 3. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
 litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
