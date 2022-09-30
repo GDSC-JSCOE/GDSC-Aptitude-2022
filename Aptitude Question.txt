@@ -379,3 +379,10 @@ C.	33
 D.	9
 
 Ans: B - 20
+17)The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:
+
+A.	200 m
+B.	225 m
+C.	245 m
+D.	250 m
+Ans : C - 245
