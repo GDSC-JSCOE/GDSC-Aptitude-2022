@@ -268,6 +268,12 @@ c) Rs.140 cr.
 d) Can’t be determined
 e) None of these
 
+11).A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+
+A.	12 days
+B.	15 days
+C.	16 days
+D.	18 days
 
 
 
