@@ -130,6 +130,7 @@ B. 170
 C. 180
 D. 250
 E. 240
+ans:280
 
 4. In 2003, a total of 68 male candidates did qualify. What is the respective ratio between
 males and females who had qualified in 2003?
