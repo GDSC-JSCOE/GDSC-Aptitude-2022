@@ -95,6 +95,16 @@ invested?
 5) Rs. 5500
 Ans RS.6000
 
+11. 1+1=?
+
+1)  50
+2)  65
+3)  6000
+4)  2
+5)  5500
+Ans : 2
+
+
 Solution:
 Let the investment by Raghu be x
 Mohit = x * 90/100 = 9x/10
