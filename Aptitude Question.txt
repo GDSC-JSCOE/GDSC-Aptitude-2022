@@ -167,6 +167,7 @@ B. 7:11
 C. 10:11
 D. 10:13
 E. 5:7
+ans : 5:9
 
 
 7. Number of appeared candidates increased by 20% from 2002 to 2006. If 25% of the
