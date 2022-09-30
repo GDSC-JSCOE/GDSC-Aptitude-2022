@@ -433,6 +433,14 @@ D.	Rs. 7500
 Ans A-Rs 6400
 
 
+19)The average weight of 10 men is decreased by 2 kg when one of them whose weight is 60 kg is replaced by a new man. What is the weight of the new man?
+A. 35 kg
+B. 40 kg
+C. 45 kg
+D. 50 kg
+Ans B-40 kg
+=======
+
 
 
 
@@ -478,9 +486,11 @@ B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
 
+
 21)What is correct time and day of Ram's magical watch, which gains uniformly 300 seconds slow at time 08:00 on Sunday and 348 fast at 20;00 on following Sunday. 
 A. 21 min past 7 pm and Wednesday
 B. 20 min past 7 pm and Thursday
 C. 21 min past 7 pm and Thursday
 D. 20 min past 7 pm and Wednesday
 Answer: b -20 min past 7 pm and Thursday
+=======
