@@ -398,3 +398,12 @@ B.	Rs. 6500
 C.	Rs. 7200
 D.	Rs. 7500
 Ans A-Rs 6400
+
+ 	
+19)Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:
+
+A.	173 m
+B.	200 m
+C.	273 m
+D.	300 m
+Answer: Option C
