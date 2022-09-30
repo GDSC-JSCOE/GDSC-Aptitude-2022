@@ -410,3 +410,11 @@ B.	Rs. 6500
 C.	Rs. 7200
 D.	Rs. 7500
 Ans A-Rs 6400
+
+19)Which term of the A.P. 4,9,14,19... is 109?
+A.12
+B.19
+C.22
+D.27
+Ans :c -22
+
