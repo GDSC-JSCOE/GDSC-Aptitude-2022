@@ -338,3 +338,43 @@ C.	324 metres
 D.	150 metres
 
 ans : D : 150 metres
+IndiaBIX.Com
+ 
+Search...
+MenuHomeAptitudeLogicalVerbalCurrent AffairsGKEngineeringInterviewOnline TestsPuzzles
+
+Aptitude :: Clock
+Home » Aptitude » Clock » General Questions
+
+Exercise :: Clock - General Questions
+Clock - Important Formulas
+Clock - General Questions
+1. 	
+An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
+
+A.	144°
+B.	150°
+C.	168°
+D.	180°
+View Answer Discuss in Forum Workspace Report
+2. 	
+The reflex angle between the hands of a clock at 10.25 is:
+
+A.	180°
+B.	
+192	1	°
+2
+C.	195°
+D.	
+197	1	°
+2
+View Answer Discuss in Forum Workspace Report
+
+19. 	
+A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:
+
+A.	145°
+B.	150°
+C.	155°
+D.	160°
+Ans: (A) 145degree
