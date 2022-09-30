@@ -332,6 +332,8 @@ A.13/90
 B.12/90
 C.78/90
 D.77/90
+ANS:Option D
+Explanation :Total number of two digits numbers in range of 1 to 100 is 77.
 
 14) How many times the hands of a clock coincide in a day?
 A.24
