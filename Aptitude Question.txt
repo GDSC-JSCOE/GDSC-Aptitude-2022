@@ -319,3 +319,23 @@ C. 180
 D. 350
 E. 300
 
+
+
+
+
+
+
+
+
+
+
+
+432525. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
+litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
+water in the remaining mixture. What is the percentage of water in the final mixture?
+1) 29.35%
+2) 28. 57%
+3) 24. 57%
+4) 27. 75%
+5) 26. 57%
+
