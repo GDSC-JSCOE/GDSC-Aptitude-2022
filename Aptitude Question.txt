@@ -371,3 +371,11 @@ C.	6.75
 D.	7
 
 Ans: A - 6.25
+16)In the first 10 overs of a cricket game, the run rate was only 10. What should be the run rate in the remaining 10 overs to reach the target of 300 runs?
+
+A.	19
+B.	20
+C.	33
+D.	9
+
+Ans: B - 20
