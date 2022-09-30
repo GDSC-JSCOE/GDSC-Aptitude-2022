@@ -19,7 +19,7 @@ Ans: 56 kg
 3) 14 3/7%
 4) 14 4/7%
 5) 14 5/7%
-ans : 3)
+ans : 3) 14 3/7%
 
 3. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
 litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
@@ -79,6 +79,7 @@ random. What is the probability that both are orange?
 3) 1/14
 4) 1/12
 5) 1/24
+ANS. 1/24
 
 10. Pradeep invested 20% more than Mohit. Mohit invested 10% less than Raghu. If
 the total sum of their investment is Rs. 17880, how much amount did Raghu
@@ -230,7 +231,6 @@ c) 80
 d) 74
 e) None of these
 
-
 6).If total income of company B in 2008 was Rs.140 crore, what was the total
 expenditure of that company in the same year? (approx)
 a) Rs.100.66 cr.
@@ -278,14 +278,6 @@ B.	15 days
 C.	16 days
 D.	18 days
 
-
-
-
-
-
-
-
-
 12). In 2004, if the difference between number of male qualified candidates and number of
 female qualified candidates was 120, what was the number of appeared candidates in
 2004?
@@ -294,10 +286,3 @@ B. 800
 C. 660
 D. 600
 E. 720
-
-
-
-
-
-
-
