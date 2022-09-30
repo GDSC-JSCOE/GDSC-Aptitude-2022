@@ -416,6 +416,39 @@ C.	Rs. 7200
 D.	Rs. 7500
 Ans A-Rs 6400
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q) By working 5 hours/day, 4 waiters can serve 250 dishes in 8 days. 2 waiters would require how many hours/day to serve 500 dishes in 20 days?
+
+a) 8 hrs/day
+b) 6 hrs/day
+c) 7 hrs/day
+d) 9 hrs/day
+
+Answer: 8 hrs/day
+
 19)Which term of the A.P. 4,9,14,19... is 109?
 A.12
 B.19
@@ -428,4 +461,5 @@ A. 95/2 degrees
 B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
+
 
