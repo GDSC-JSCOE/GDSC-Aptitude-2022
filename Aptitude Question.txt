@@ -105,6 +105,7 @@ B. 1220
 C. 1330
 D. 1150
 E. None of the Above
+ans:B) 1220
 
 2. In 2004, what percent of male candidates did qualify in the exam among all qualified
 candidates?
