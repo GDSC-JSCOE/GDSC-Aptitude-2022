@@ -82,6 +82,7 @@ random. What is the probability that both are orange?
 3) 1/14
 4) 1/12
 5) 1/24
+Ans :  Required Probability = 3C2/9C2 = 1/12
 
 10. Pradeep invested 20% more than Mohit. Mohit invested 10% less than Raghu. If
 the total sum of their investment is Rs. 17880, how much amount did Raghu
