@@ -197,6 +197,7 @@ B. 800
 C. 660
 D. 600
 E. 720
+Ans= B. 800
 
 10. In 2001, the respective ratio of number of appeared candidates to qualified candidates
 was 5:2. Number of female candidates qualified in 2001 constitutes what percent of the
