@@ -367,3 +367,15 @@ ANS : A
 4.Rs. 6777.7
 
 Ans:2.5777.7
+
+
+15)
+1) What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?
+
+A.Rs. 180
+B.Rs. 204
+C.Rs. 210
+D.Rs. 220
+
+ANS:B) 204
+
