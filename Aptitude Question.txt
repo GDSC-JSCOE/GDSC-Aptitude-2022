@@ -379,3 +379,15 @@ C.	33
 D.	9
 
 Ans: B - 20
+1. In the following question, a group of three interrelated words is given. Choose a word from the given alternatives, that belongs to the same group. Jute : Cotton : Wool
+a.Terylene
+b.Nylon
+c.Rayon
+d.Silk
+answer-silk
+2. In the following question, four words have been given, out of which three are alike in some manner and the fourth one is different. Choose out the odd one.
+a.Paddy
+b.Jowar
+c.Mustard
+d.Wheat
+answer-Mustard
