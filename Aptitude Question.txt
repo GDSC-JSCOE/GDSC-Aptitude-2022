@@ -433,6 +433,14 @@ D.	Rs. 7500
 Ans A-Rs 6400
 
 
+19)The average weight of 10 men is decreased by 2 kg when one of them whose weight is 60 kg is replaced by a new man. What is the weight of the new man?
+A. 35 kg
+B. 40 kg
+C. 45 kg
+D. 50 kg
+Ans B-40 kg
+=======
+
 
 
 
@@ -477,5 +485,6 @@ A. 95/2 degrees
 B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
+
 
 
