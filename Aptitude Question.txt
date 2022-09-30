@@ -322,3 +322,9 @@ A.13/90
 B.12/90
 C.78/90
 D.77/90
+
+14) How many times the hands of a clock coincide in a day?
+A.24
+B.22
+C.23
+D.21
