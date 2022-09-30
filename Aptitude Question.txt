@@ -95,6 +95,16 @@ invested?
 5) Rs. 5500
 Ans RS.6000
 
+11. 1+1=?
+
+1)  50
+2)  65
+3)  6000
+4)  2
+5)  5500
+Ans : 2
+
+
 Solution:
 Let the investment by Raghu be x
 Mohit = x * 90/100 = 9x/10
@@ -103,6 +113,22 @@ x + 9x/10 + 108x/100 = 17880
 x = Rs. 6000
 
 Answer : 3)
+
+11. With the money I have, I can buy 50 pens or 150 pencils. I kept 10% aside for taxi fare. With the remaining, I purchased 54 pencils and P pens. What is the value of P?
+1) 32
+2) 30
+3) 27
+4) None  of  these  
+
+Solution:
+Since cost of, 50 pens = 150 pencils, With the cost of 3 pencils I can buy 1 pen.
+After putting aside 10% for taxi I was left with 90% of the money, with which I can buy 135 pencils (90% of 150) or 45(90% of 50) pens,
+I bought 54 pencils and P pens, or I could have bought (54 + 3P) pencil,
+54 + 3P = 135,
+3P = 135 - 54 = 81,
+P = 27
+
+Answer : 3) 27
 
 
 ## SECTION 2 : Data Interpretation
@@ -298,6 +324,7 @@ b) Rs.300 cr.
 c) Rs.160 cr.
 d) Data inadequate
 e) None of these
+Ans. a)
 
 10).If the income of company A in 2009 was Rs.100 cr. Then what was the
 expenditure of company B in that year?
@@ -332,8 +359,12 @@ A.13/90
 B.12/90
 C.78/90
 D.77/90
+
+ANS: 77/90
+
 ANS:Option D
 Explanation :Total number of two digits numbers in range of 1 to 100 is 77.
+
 
 14) How many times the hands of a clock coincide in a day?
 A.24
@@ -401,9 +432,59 @@ C.	Rs. 7200
 D.	Rs. 7500
 Ans A-Rs 6400
 
+
 19)The average weight of 10 men is decreased by 2 kg when one of them whose weight is 60 kg is replaced by a new man. What is the weight of the new man?
 A. 35 kg
 B. 40 kg
 C. 45 kg
 D. 50 kg
 Ans B-40 kg
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q) By working 5 hours/day, 4 waiters can serve 250 dishes in 8 days. 2 waiters would require how many hours/day to serve 500 dishes in 20 days?
+
+a) 8 hrs/day
+b) 6 hrs/day
+c) 7 hrs/day
+d) 9 hrs/day
+
+Answer: 8 hrs/day
+
+19)Which term of the A.P. 4,9,14,19... is 109?
+A.12
+B.19
+C.22
+D.27
+Ans :c -22
+
+20)In a clock, the time is 3.25.What is the angle between the hour hand and the minute hand of the clock:
+A. 95/2 degrees
+B. 90/3 degrees
+C. 94/3 degrees
+D. 95/3 degrees
+
+
+
