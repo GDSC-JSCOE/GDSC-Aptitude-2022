@@ -89,6 +89,15 @@ invested?
 4) Rs. 7500
 5) Rs. 5500
 
+Solution:
+Let the investment by Raghu be x
+Mohit = x * 90/100 = 9x/10
+Pradeep = 9x/10 * 120/100 = 108x/100
+x + 9x/10 + 108x/100 = 17880
+x = Rs. 6000
+
+Answer : 3)
+
 
 ## SECTION 2 : Data Interpretation
 
