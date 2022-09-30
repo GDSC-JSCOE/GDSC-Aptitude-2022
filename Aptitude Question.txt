@@ -1,7 +1,7 @@
 
 ## SECTION 1
 
-1. The average weight of four boys A, B, C, and D is 75 kg. The fifth boy E is included
+1. The average weight of four boys and  A, B, C, and D is 75 kg. The fifth boy E is included
 and the average weight decreases by 4 kg. A is replaced by F. The weight of F is 6
 kg more than E. Average weight decreases because of the replacement of A and
 now the average weight is 72 kg. Find the weight of A.
