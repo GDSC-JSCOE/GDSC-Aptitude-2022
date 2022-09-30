@@ -92,7 +92,7 @@ invested?
 3) Rs. 6000
 4) Rs. 7500
 5) Rs. 5500
-
+ans: 3)6500
 
 ## SECTION 2 : Data Interpretation
 
