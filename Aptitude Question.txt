@@ -329,6 +329,8 @@ A.24
 B.22
 C.23
 D.21
+ANS:Option B
+Explaination: The hands overlap about every 65 minutes, not every 60 minutes. The hands coincide 22 times in a day.
 
 
 14) A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
