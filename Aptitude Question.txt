@@ -88,6 +88,7 @@ invested?
 3) Rs. 6000
 4) Rs. 7500
 5) Rs. 5500
+Ans RS.6000
 
 
 ## SECTION 2 : Data Interpretation
@@ -133,7 +134,6 @@ B. 556
 C. 528
 D. 546
 E. None of the Above
-ANS - 528
 
 5. What is the average number of candidates who did not qualify in the exam in the years
 2003 and 2005?
