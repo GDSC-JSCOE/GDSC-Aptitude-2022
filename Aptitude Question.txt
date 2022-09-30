@@ -114,6 +114,7 @@ C. 1330
 D. 1150
 E. None of the Above
 ans: B.1220
+
 2. In 2004, what percent of male candidates did qualify in the exam among all qualified
 candidates?
 A. 51%
@@ -169,10 +170,11 @@ E. 5:7
 appeared candidates qualified in 2006, what was the number of qualified candidates in
 2006?
 A. 205
-B. 225
+B. 215
 C. 245
 D. 240
 E. 230
+Ans= B. 215
 
 8. If the average number of qualified candidates in 2002 and 2005 was 433, what percent of
 appeared candidates qualified in the competitive exam in 2002?
