@@ -206,6 +206,7 @@ B. 25%
 C. 125%
 D. 20%
 E. Can not be determined
+Ans = A.15
 
 
 SECTION 3 :
