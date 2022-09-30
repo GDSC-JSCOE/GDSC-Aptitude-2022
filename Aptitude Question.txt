@@ -419,3 +419,9 @@ C.22
 D.27
 Ans :c -22
 
+20)In a clock, the time is 3.25.What is the angle between the hour hand and the minute hand of the clock:
+A. 95/2 degrees
+B. 90/3 degrees
+C. 94/3 degrees
+D. 95/3 degrees
+
