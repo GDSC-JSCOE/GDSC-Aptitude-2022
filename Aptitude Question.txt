@@ -10,7 +10,7 @@ now the average weight is 72 kg. Find the weight of A.
 3) 56 kg
 4) 60 kg
 5) 58 kg
-
+Ans: 56 kg
 2. If a discount of 16% is given on the marked price of a book, the publisher gains
 20%. If the discount is increased to 20% the gain percent is
 1) 14 2/7%
