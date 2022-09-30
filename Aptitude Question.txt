@@ -114,7 +114,7 @@ B. 61%
 C. 55%
 D. 56%
 E. None of the Above
-
+ans: B.61%
 3. In 2002, 54% of appeared candidates did qualify. How many female candidates did
 qualify in the exam?
 A. 280
