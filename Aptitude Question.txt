@@ -29,6 +29,7 @@ water in the remaining mixture. What is the percentage of water in the final mix
 3) 24. 57%
 4) 27. 75%
 5) 26. 57%
+ans: 2) 28.57%
 
 4. A rectangular plot has a concrete path running inner side of the plot is used as a
 lawn, which has an area of 432 sq.m. If the width of the path is 4 m and the length of
