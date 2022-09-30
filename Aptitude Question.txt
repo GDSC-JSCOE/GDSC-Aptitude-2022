@@ -478,4 +478,9 @@ B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
 
-
+21)What is correct time and day of Ram's magical watch, which gains uniformly 300 seconds slow at time 08:00 on Sunday and 348 fast at 20;00 on following Sunday. 
+A. 21 min past 7 pm and Wednesday
+B. 20 min past 7 pm and Thursday
+C. 21 min past 7 pm and Thursday
+D. 20 min past 7 pm and Wednesday
+Answer: b -20 min past 7 pm and Thursday
