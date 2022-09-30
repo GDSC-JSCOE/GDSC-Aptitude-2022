@@ -141,6 +141,7 @@ B. 19:25
 C. 17:25
 D. 25:13
 E. 13:19
+Ans= C.17:25
 
 5. What is the average number of candidates who did not qualify in the exam in the years
 2003 and 2005?
