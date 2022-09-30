@@ -310,13 +310,6 @@ C.	16 days
 D.	18 days
 
 
-
-
-
-
-
-
-
 12). In 2004, if the difference between number of male qualified candidates and number of
 female qualified candidates was 120, what was the number of appeared candidates in
 2004?
@@ -351,7 +344,7 @@ D.	150 metres
 
 ans : D : 150 metres
 
-What is the average of first five multiples of 12?
+15)What is the average of first five multiples of 12?
 A.36
 B.38
 C.40
@@ -359,7 +352,7 @@ D.42
 
 ANS : A
 
- Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+15)Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
 
 1.Rs. 5222.2
 2.Rs. 5777.7
@@ -367,3 +360,12 @@ ANS : A
 4.Rs. 6777.7
 
 Ans:2.5777.7
+
+16)In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?
+
+A.	6.25
+B.	6.5
+C.	6.75
+D.	7
+
+Ans: A - 6.25
