@@ -386,5 +386,4 @@ A. Monday
 B.Sunday
 C.Wednesday
 D.Thursday
-
 Ans:c-Wednesday
