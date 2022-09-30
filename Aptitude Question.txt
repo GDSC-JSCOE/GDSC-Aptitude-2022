@@ -19,7 +19,7 @@ Ans: 56 kg
 3) 14 3/7%
 4) 14 4/7%
 5) 14 5/7%
-ans : 3)
+ans : 14 2/7%
 
 3. In 165 litres of mixtures of milk and water, water is only 28%. The milkman sold 40
 litres of this mixture and then he added 30 litres of pure milk and 13 litres of pure
@@ -29,6 +29,7 @@ water in the remaining mixture. What is the percentage of water in the final mix
 3) 24. 57%
 4) 27. 75%
 5) 26. 57%
+ans:28.57%
 
 4. A rectangular plot has a concrete path running inner side of the plot is used as a
 lawn, which has an area of 432 sq.m. If the width of the path is 4 m and the length of
@@ -38,6 +39,7 @@ the plot is greater than its breadth by 2m, what is the area of the rectangular 
 3) 984 m^2
 4) 960 m^2
 5) 965 m^2
+ans: 984 m^2
 
 5. Difference between the compound interest and the simple interest accrued on an
 amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
@@ -46,6 +48,7 @@ amount of Rs. 18000 in two year is Rs. 405. What was the rate of interest?
 3) 12.5%
 4) 15%
 5) 15.5%
+ans: 12.5%
 
 6. 12 men can complete any work in 36 days. 18 women can complete the same piece of work in 60 days.
 8 men and 20 women work together for 20 days. If only the
@@ -61,6 +64,7 @@ be done?
 3) 120
 4) 90
 5) 80
+ans: 60
 
 8. Excluding the stoppages, the speed of a bus is 64 km/hr and including the
 stoppages the speed of the bus is 48km/hr. For how many minutes does the bus
@@ -70,6 +74,7 @@ stop per hour?
 3) 12 min
 4) 20 min
 5) 18 min
+ans: 10 min
 
 9. A box contains 2 black, 3 orange and 4 pink ribbons. If two ribbons are drawn at
 random. What is the probability that both are orange?
@@ -78,6 +83,7 @@ random. What is the probability that both are orange?
 3) 1/14
 4) 1/12
 5) 1/24
+ans: 1/24
 
 10. Pradeep invested 20% more than Mohit. Mohit invested 10% less than Raghu. If
 the total sum of their investment is Rs. 17880, how much amount did Raghu
@@ -87,7 +93,7 @@ invested?
 3) Rs. 6000
 4) Rs. 7500
 5) Rs. 5500
-
+ans: Rs.6000
 
 ## SECTION 2 : Data Interpretation
 
@@ -100,6 +106,7 @@ B. 1220
 C. 1330
 D. 1150
 E. None of the Above
+ans: 1220
 
 2. In 2004, what percent of male candidates did qualify in the exam among all qualified
 candidates?
@@ -108,6 +115,7 @@ B. 61%
 C. 55%
 D. 56%
 E. None of the Above
+ans:56%
 
 3. In 2002, 54% of appeared candidates did qualify. How many female candidates did
 qualify in the exam?
@@ -124,6 +132,7 @@ B. 19:25
 C. 17:25
 D. 25:13
 E. 13:19
+ans: 11:25
 
 5. What is the average number of candidates who did not qualify in the exam in the years
 2003 and 2005?
@@ -140,6 +149,7 @@ B. 556
 C. 528
 D. 546
 E. None of the Above
+ans:556
 
 6. In 2003, if the number of female qualified candidates was 70, what was the respective
 ratio of number of female qualified candidates and number of male qualified candidates
@@ -149,6 +159,7 @@ B. 7:11
 C. 10:11
 D. 10:13
 E. 5:7
+ans: 10:11
 
 
 7. Number of appeared candidates increased by 20% from 2002 to 2006. If 25% of the
@@ -159,6 +170,7 @@ B. 225
 C. 245
 D. 240
 E. 230
+ans: 245
 
 8. If the average number of qualified candidates in 2002 and 2005 was 433, what percent of
 appeared candidates qualified in the competitive exam in 2002?
@@ -167,6 +179,7 @@ B. 75%
 C. 45%
 D. 70%
 E. 50%
+ans; 45%
 
 9. In 2004, if the difference between number of male qualified candidates and number of
 female qualified candidates was 120, what was the number of appeared candidates in
@@ -176,6 +189,7 @@ B. 800
 C. 660
 D. 600
 E. 720
+ans: 660
 
 10. In 2001, the respective ratio of number of appeared candidates to qualified candidates
 was 5:2. Number of female candidates qualified in 2001 constitutes what percent of the
@@ -185,7 +199,7 @@ B. 25%
 C. 125%
 D. 20%
 E. Can not be determined
-
+ans: 25%
 
 SECTION 3 :
 
@@ -196,6 +210,7 @@ b) E
 c) A
 d) F
 e) None of these
+ans:D
 
 2).What percent of candidates from institute D have come out to be successful out of
 the total candidates enrolled from this institute?
@@ -204,6 +219,7 @@ b) 95
 c) 80
 d) 85
 e) None of these
+ans: 80
 
 3).What is the approximate percentage of candidates successful to enrolled from
 institute A?
@@ -212,6 +228,7 @@ b) 89
 c) 86
 d) 96
 e) 88
+ans: 86
 
 4).What is the ratio between the enrolled and successful candidates from the
 institutes B and C together?
@@ -220,6 +237,7 @@ b) 5:7
 c) 135:271
 d) 5:3
 e) None of these
+ans: 5:7
 
 5).What is the percentage of successful candidates from institute E and F together
 over the candidates enrolled from these institutes together?
@@ -228,6 +246,7 @@ b) 105
 c) 80
 d) 74
 e) None of these
+ans:80
 
 
 6).If total income of company B in 2008 was Rs.140 crore, what was the total
@@ -237,6 +256,7 @@ b) Rs.110.33 cr.
 c) Rs.98.22 cr.
 d) Rs.94.90 cr.
 e) Rs.96.55 cr.
+ans: Rs.100.66 cr.
 
 7).If total expenditure of company B in 2009 and 2010 was Rs.270 crore, what was
 total income of that company in both the same years?
@@ -245,6 +265,7 @@ b) Rs.135 cr.
 c) Rs.140 cr.
 d) Data inadequate
 e) None of these
+ans: 121.5 cr.
 
 8).In which year was the total income more than double the total expenditure in that
 year for company A?
@@ -253,6 +274,7 @@ b) 2009
 c) 2011
 d) 2008
 e) None of these
+ans: 2010
 
 9).If the total expenditure of company A in 2010 was Rs.200 cr. What was the total
 income of that company in the same year?
@@ -261,6 +283,7 @@ b) Rs.300 cr.
 c) Rs.160 cr.
 d) Data inadequate
 e) None of these
+ans:260 cr.
 
 10).If the income of company A in 2009 was Rs.100 cr. Then what was the
 expenditure of company B in that year?
@@ -269,6 +292,7 @@ b) Rs.120 cr.
 c) Rs.140 cr.
 d) Can’t be determined
 e) None of these
+ans: 120 cr.
 
 11).A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
 
@@ -276,6 +300,7 @@ A.	12 days
 B.	15 days
 C.	16 days
 D.	18 days
+ans:15 days
 
 
 
@@ -293,6 +318,7 @@ B. 800
 C. 660
 D. 600
 E. 720
+ans:660
 
 
 
