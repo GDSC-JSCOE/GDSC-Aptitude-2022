@@ -114,6 +114,7 @@ B. 1220
 C. 1330
 D. 1150
 E. None of the Above
+Ans: B
 
 2. In 2004, what percent of male candidates did qualify in the exam among all qualified
 candidates?
@@ -130,7 +131,6 @@ B. 170
 C. 180
 D. 250
 E. 240
-ans:280
 
 4. In 2003, a total of 68 male candidates did qualify. What is the respective ratio between
 males and females who had qualified in 2003?
