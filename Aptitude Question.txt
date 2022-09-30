@@ -107,6 +107,7 @@ Answer : 3)
 ## SECTION 2 : Data Interpretation
 
 
+
 1. In 2001, 6400 candidates appeared at the exam and 40% of them qualified. In 2005 the
 ratio between qualified males and females was 3:5. What is the total number of female
 candidates who qualified in these two years?
@@ -207,6 +208,14 @@ C. 125%
 D. 20%
 E. Can not be determined
 Ans = A.15
+
+
+Q 11. Which one of the following could be a complete list of the number of rooms and colours that Mr X used to paint some of the rooms of his house?
+
+A. one blue, one Terry cherry, one violet latte, two happy pink
+B. one blue, one teal, one Terry cherry, three happy pink
+C. two blue, one teal, three Terry Cherry
+D. one jacket, one Terry cherry, two violet latte and one happy pink
 
 
 SECTION 3 :
