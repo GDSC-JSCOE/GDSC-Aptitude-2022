@@ -75,7 +75,7 @@ stop per hour?
 3) 12 min
 4) 20 min
 5) 18 min
-
+ans : 1)15 min
 9. A box contains 2 black, 3 orange and 4 pink ribbons. If two ribbons are drawn at
 random. What is the probability that both are orange?
 1) 5/12
