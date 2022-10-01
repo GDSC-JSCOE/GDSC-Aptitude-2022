@@ -522,4 +522,14 @@ B. 20 min past 7 pm and Thursday
 C. 21 min past 7 pm and Thursday
 D. 20 min past 7 pm and Wednesday
 Answer: b -20 min past 7 pm and Thursday
+
+23)The banker's gain on a sum due 3 years hence at 12% per annum is Rs. 270. The banker's discount is:
+
+A.	Rs. 960
+B.	Rs. 840
+C.	Rs. 1020
+D.	Rs. 760
+Answer: Option C
 =======
+
+
