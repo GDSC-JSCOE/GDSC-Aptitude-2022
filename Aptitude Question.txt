@@ -522,4 +522,19 @@ B. 20 min past 7 pm and Thursday
 C. 21 min past 7 pm and Thursday
 D. 20 min past 7 pm and Wednesday
 Answer: b -20 min past 7 pm and Thursday
+
+22)Look at this series: 5, 10, 17, 26, 37, 50, … What number should come next?
+A. 66
+B. 72
+C. 60
+D. 65
+Answer: Option D-65
+
+23) Melt : Liquid :: Freeze :
+A. Ice
+B. Solid
+C. Condense
+D. Push
+Answer: B. Solid
+
 =======
