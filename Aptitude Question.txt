@@ -130,7 +130,20 @@ P = 27
 
 Answer : 3) 27
 
+12. Ram sells an article at three-fourth of its list price and makes a loss of 10%. Find the profit percentage if he sells at the list price.
+1) 20%
+2) 25%
+3) 15%
+4) None of these
 
+Solution:
+Let the list price be x,
+      S.P = 3/4x, S.P = (100 – loss%) / 100*C.P = 0.9 C.P
+       3/4x = 0.9 C.P, C.P = 3x / 3.6
+       If S.P = x, Profit %  = (x- 3x/3.6 ) / ( 3x/3.6 ) * 100 = 60/3 = 20%
+ 
+ Answer : 1) 20%
+       
 ## SECTION 2 : Data Interpretation
 
 
