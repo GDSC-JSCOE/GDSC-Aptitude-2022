@@ -526,10 +526,10 @@ Answer: b -20 min past 7 pm and Thursday
 23)The banker's gain on a sum due 3 years hence at 12% per annum is Rs. 270. The banker's discount is:
 
 A.	Rs. 960
-B.	Rs. 840
-C.	Rs. 1020
+B.	Rs. 1020
+C.	Rs. 840
 D.	Rs. 760
-Answer: Option C
+Answer: Option B
 =======
 
 
