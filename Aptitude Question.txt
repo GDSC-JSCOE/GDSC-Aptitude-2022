@@ -54,7 +54,7 @@ ANS = 4 (15%)
 8 men and 20 women work together for 20 days. If only the
 women were to complete the remaining work in 4 days, then how many women
 would be required?
-
+Ans. 70
 
 7.Out of 5 women and 4 men, a committee of three members is to be formed in
 such a way that at least one member is woman. In how many different ways can this
