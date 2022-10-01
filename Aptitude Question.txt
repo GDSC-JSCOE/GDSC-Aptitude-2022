@@ -260,7 +260,7 @@ A. one blue, one Terry cherry, one violet latte, two happy pink
 B. one blue, one teal, one Terry cherry, three happy pink
 C. two blue, one teal, three Terry Cherry
 D. one jacket, one Terry cherry, two violet latte and one happy pink
-
+Ans = A) one blue, one Terry cherry, one violet latte, two happy pink
 
 SECTION 3 :
 
