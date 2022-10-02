@@ -532,4 +532,112 @@ D.	Rs. 760
 Answer: Option B
 =======
 
+SECTION 4:
+
+1. A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?
+A. 3.6
+B. 7.2
+C. 8.4
+D. 10
+Answer: B
+
+2. An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 2/3 hours, it must travel at a speed of?
+A. 300 kmph
+B. 360 kmph
+C. 600 kmph
+D. 720 kmph
+Answer: D
+
+3. A car covers its journey at the speed of 80km/hr in 10hours. If the same distance is to be covered in 4 hours, by how much the speed of car will have to increase?
+A. 40km/hr
+B. 60km/hr
+C. 90km/hr
+D. 120km/hr
+Answer: D
+
+4. A person walking at 4 Kmph reaches his office 8 minutes late. If he walks at 6 Kmph, he reaches there 8 minutes earlier. How far is the office from his house?
+A. 3 1/5 Km
+B. 2 1/5 Km
+C. 4 1/5 Km
+D. 5 1/5 Km
+Answer: A
+
+5. An express train travelled at an average speed of 100 km/hr, stopping for 3 minutes after every 75 km. How long did it take to reach its destination 600 km from the starting point?
+A. 6 hrs 27 min
+B. 6 hrs 24 min
+C. 6 hrs 21 min
+D. 6 hrs 30 min
+Answer: C
+
+6. Two trains starting at the same time from 2 stations 200 km apart and going in opposite direction cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?
+A.11:9
+B. 7:3
+C. 18:4
+D. None of these
+Answer: A
+
+7. Walking at the rate of 4 kmph a man cover a certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.
+A. 12 min
+B. 40 min
+C. 50 min
+D. 60 min
+Answer: B
+
+8. Walking 6/7th of his usual speed, a man is 12 minutes too late. What is the usual time taken by him to cover that distance?
+A. 1 hr 42 min
+B. 1 hr
+C. 2 hr
+D. 1 hr 12 min
+Answer: D
+
+9. The speed of a car increases by 2 kms after every one hour. If the distance travelling in the first one hour was 35 kms. what was the total distance travelled in 12 hours?
+A. 456 km
+B. 482 km
+C. 558 km
+D. 552 km
+Answer: D
+
+10. A runner can complete a 750 m race in two and a half minutes. Will he be able to beat another runner who runs at 17.95 km/hr?
+A. Yes
+B. No
+C. Insufficient Data
+D. None
+Answer: A
+
+11. Express 25 mps in kmph?
+A. 15 kmph
+B. 99 kmph
+C. 90 kmph
+D. None
+Answer: C
+
+12. How long will a boy take to run round a square field of side 35 meters, If he runs at the rate of 9 km/hr?
+A. 50 sec
+B. 52 sec
+C. 54 sec
+D. 56 sec
+Answer: D
+
+13. A speed of a train is 20 meters per second. It can cross a pole in 10 seconds. What is the length of a train?
+A. 150 m
+B. 250 m
+C. 200 m
+D. 300 m
+Answer: C
+
+14. Nancy travelled a distance of 455 km by car in 10 hours. Find the speed of the car.
+A. 25.5 km/hr
+B. 45.5 km/hr
+C. 30 km/hr
+D. 65 km/hr
+Answer: B
+
+15. A person goes from A to B at the speed of 40 kmph and comes back at the speed of 60 kmph. What is his average speed for the whole journey?
+A. 56 km/h
+B. 48 km/h
+C. 36 km/h
+D. 25 km/h
+Answer: B
+
+----------------------------------
 
