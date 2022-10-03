@@ -639,5 +639,12 @@ C. 36 km/h
 D. 25 km/h
 Answer: B
 
+16. Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds.The ratio of their speeds is:
+A. 1:3
+B. 3:2
+C. 3:4
+D. None of these
+Answer: Option B. 3:2
+
 ----------------------------------
 
