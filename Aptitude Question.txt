@@ -686,4 +686,11 @@ C.	36 kg
 D.	36.9 kg
 ANSWER: B 
 
+6. There is bag of lots of integers from 1 to 10000, but you can only pick the numbers that are of 3-digit and also divisible by 3. What maximum sum of numbers you can pick.
+
+A. 	165150
+B. 	1600843
+C. 	168132420
+D. 	165322501
+ANSWER: A
 ---------------------------------------------------
