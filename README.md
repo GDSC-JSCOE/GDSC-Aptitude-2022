@@ -30,11 +30,3 @@
 
 
 ###                 Begin the pull request!!!
-A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
-
-A.	120 metres
-B.	180 metres
-C.	324 metres
-D.	150 metres
-
-ans A.120 metres
