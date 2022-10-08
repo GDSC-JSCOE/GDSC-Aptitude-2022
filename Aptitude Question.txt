@@ -694,4 +694,11 @@ C.	36 kg
 D.	36.9 kg
 ANSWER: B 
 
+6. The banker's discount on a sum of money for 1 years is Rs. 558 and the true discount on the same sum for 2 years is Rs. 600. The rate percent is:
+
+A.	10%
+B.	13%
+C.	12%
+D.	15%
+Answer: C
 ---------------------------------------------------
