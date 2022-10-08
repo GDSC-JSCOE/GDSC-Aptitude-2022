@@ -64,7 +64,7 @@ be done?
 3) 120
 4) 90
 5) 80
-Ans 80
+Ans 5)
 
 8. Excluding the stoppages, the speed of a bus is 64 km/hr and including the
 stoppages the speed of the bus is 48km/hr. For how many minutes does the bus
