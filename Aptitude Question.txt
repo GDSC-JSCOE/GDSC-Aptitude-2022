@@ -509,6 +509,14 @@ B. 90/3 degrees
 C. 94/3 degrees
 D. 95/3 degrees
 
+Ans:(A)
+Explanation: As, the hour hand covers 360 degrees in 12 hrs.
+In the clock the time is 3.25 = 3 hrs 25 min = 41/12 hrs.
+So, the angle traced by hour hand = (360/12 x 41/12) degrees = 205 degrees.
+The minute hand covers 360 degrees in 60 minutes.
+So, the angle is traced by minute hand in 25 min = (360/60 x 25) degrees = 150 degrees.
+Hence, the required angle of the clock = (150- 205/2) degrees = 95/2 degrees.
+
 21)In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?
 A.	30%
 B.	70%
