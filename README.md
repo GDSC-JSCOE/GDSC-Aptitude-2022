@@ -30,11 +30,10 @@
 
 
 ###                 Begin the pull request!!!
-A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+20)In a clock, the time is 3.25.What is the angle between the hour hand and the minute hand of the clock:
+A. 95/2 degrees
+B. 90/3 degrees
+C. 94/3 degrees
+D. 95/3 degrees
 
-A.	120 metres
-B.	180 metres
-C.	324 metres
-D.	150 metres
-
-ans A.120 metres
+Ans:(A)95/2 degrees
