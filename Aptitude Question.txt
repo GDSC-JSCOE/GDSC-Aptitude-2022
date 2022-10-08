@@ -462,6 +462,14 @@ B.	5%
 C.	7.5%
 D.	10%
 Ans A 0%
+
+21) Find the next number in the sequence: 0, 6, 24, 60, 120, ___
+
+A. 360
+B. 180
+C. 240
+D. 210
+Ans. - D. 210
 =======
 
 
