@@ -725,4 +725,12 @@ B.	50 km/hr
 C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
+
+A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.
+
+A.	2 hours
+B.	3 hours
+C.	4 hours
+D.	5 hours
+Answer: Option C
 ---------------------------------------------------
