@@ -725,4 +725,13 @@ B.	50 km/hr
 C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
+
+
+The speed of a boat in still water is 5km/hr. If the speed of the boat against the stream is 3 km/hr, what is the speed of the stream?
+
+A. 1.5 km/hr
+B. 2 km/hr
+C. 2.5 km/hr
+D. 1 km/hr
+Answer: Option B
 ---------------------------------------------------
