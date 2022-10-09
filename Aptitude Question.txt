@@ -725,4 +725,12 @@ B.	50 km/hr
 C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
+
+A man bought 20 shares of Rs.50 at 5 discount, the rate of divident being 13.5 The rate of interest obtained is:
+
+A.      12.5%
+B.      13.5%
+C.      15%
+D.      17%
+Answer: Option C
 ---------------------------------------------------
