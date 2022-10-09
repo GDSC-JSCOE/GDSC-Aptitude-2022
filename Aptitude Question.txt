@@ -709,4 +709,20 @@ B.	13%
 C.	12%
 D.	15%
 Answer: C
+	
+A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+
+A.	120 metres
+B.	180 metres
+C.	324 metres
+D.	150 metres
+Answer: Option D
+	
+A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
+
+A.	45 km/hr
+B.	50 km/hr
+C.	54 km/hr
+D.	55 km/hr
+Answer: Option B
 ---------------------------------------------------
