@@ -725,4 +725,12 @@ B.	50 km/hr
 C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
+
+A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:
+
+A.	8.5 km/hr
+B.	9 km/hr
+C.	10 km/hr
+D.	12.5 km/hr
+Answer: Option C
 ---------------------------------------------------
