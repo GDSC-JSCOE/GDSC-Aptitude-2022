@@ -725,4 +725,12 @@ B.	50 km/hr
 C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
+
+7.If the radius of a circle is diminished by 10%, then its area is diminished by:
+
+A.      10%
+B.      19%
+C.      20%
+D.      36%
+Answer: Option c
 ---------------------------------------------------
