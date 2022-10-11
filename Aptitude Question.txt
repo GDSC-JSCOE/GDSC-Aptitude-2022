@@ -641,6 +641,14 @@ C. 200 m
 D. 300 m
 Answer: C
 
+Explaination : As the speed of a train i.e v = 20 m/s. 
+it can cross a pole in 10 seconds , t = 10 sec.
+length of a train = Distance covered by it (d)
+we know that distance = velocity * time
+d = v * t = 20 * 10 = 200 m.
+Therefore distance = 200 m.
+so the length of the train is 200 m. 
+
 14. Nancy travelled a distance of 455 km by car in 10 hours. Find the speed of the car.
 A. 25.5 km/hr
 B. 45.5 km/hr
