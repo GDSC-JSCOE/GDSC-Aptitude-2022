@@ -143,7 +143,26 @@ Let the list price be x,
        If S.P = x, Profit %  = (x- 3x/3.6 ) / ( 3x/3.6 ) * 100 = 60/3 = 20%
  
  Answer : 1) 20%
-       
+
+13. Three times a number is 20% more than twice another number when increased by 105. If twice the first number increased by 36 is 20% less than three times of the second number, then what is the first number?
+1) 150
+2) 162
+3) 180
+4) None of  these
+
+Solution:
+Let the two numbers be x and y.
+3x = 1.2( 2y + 105)
+3x = 2.4y + 126 ………………(1)
+2x + 36 = 0.8(3y)
+2x + 36 = 2.4y ……………(2)
+x = 162
+
+Answer : 2) 162 
+
+
+
+
 ## SECTION 2 : Data Interpretation
 
 
@@ -641,6 +660,14 @@ C. 200 m
 D. 300 m
 Answer: C
 
+Explaination : As the speed of a train i.e v = 20 m/s. 
+it can cross a pole in 10 seconds , t = 10 sec.
+length of a train = Distance covered by it (d)
+we know that distance = velocity * time
+d = v * t = 20 * 10 = 200 m.
+Therefore distance = 200 m.
+so the length of the train is 200 m. 
+
 14. Nancy travelled a distance of 455 km by car in 10 hours. Find the speed of the car.
 A. 25.5 km/hr
 B. 45.5 km/hr
@@ -726,11 +753,19 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
-21. Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
 
 A. Rs. 5222.2
 B. Rs. 5777.7
 C. Rs. 6222.2
 D. Rs. 6777.7
 Answer : Option B
----------------------------------------------------
+
+If the radius of a circle is diminished by 10%, then its area is diminished by:
+
+A.      10%
+B.      19%
+C.      20%
+D.      36%
+Answer: Option c
+
