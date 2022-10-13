@@ -753,11 +753,11 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
-A train running at the speed of 60 km/hr crosses a pole in 18 seconds. What is the length of the train?
+If the radius of a circle is diminished by 10%, then its area is diminished by:
 
-A.	120 metres
-B.	180 metres
-C.	320 metres
-D.	300 metres
-Answer: Option D
----------------------------------------------------
+A.      10%
+B.      19%
+C.      20%
+D.      36%
+Answer: Option c
+
