@@ -753,6 +753,14 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
+Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+
+A. Rs. 5222.2
+B. Rs. 5777.7
+C. Rs. 6222.2
+D. Rs. 6777.7
+Answer : Option B
+
 If the radius of a circle is diminished by 10%, then its area is diminished by:
 
 A.      10%
