@@ -138,3 +138,9 @@ Ans: (b) 9
 (d) 17 years
 Ans: (c) 21 years
 
+21. The present age of  A is twice that of B. After 30 years from now the age of A will be 1^1/2 times that of B. Find the present ages of A and B respectively. 
+(a) 60,30
+(b) 30,60
+(c) 40,50
+(d) 50,40
+Ans: (a) 60,30

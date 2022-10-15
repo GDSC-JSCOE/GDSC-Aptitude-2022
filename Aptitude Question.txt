@@ -737,7 +737,7 @@ C.	12%
 D.	15%
 Answer: C
 	
-A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+7. A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
 
 A.	120 metres
 B.	180 metres
@@ -745,7 +745,7 @@ C.	324 metres
 D.	150 metres
 Answer: Option D
 	
-A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
+8. A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
 
 A.	45 km/hr
 B.	50 km/hr
@@ -753,7 +753,7 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
-Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+9. Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
 
 A. Rs. 5222.2
 B. Rs. 5777.7
@@ -761,7 +761,7 @@ C. Rs. 6222.2
 D. Rs. 6777.7
 Answer : Option B
 
-If the radius of a circle is diminished by 10%, then its area is diminished by:
+10. If the radius of a circle is diminished by 10%, then its area is diminished by:
 
 A.      10%
 B.      19%
@@ -769,3 +769,45 @@ C.      20%
 D.      36%
 Answer: Option c
 
+----------------------------------
+
+
+SECTION 6 :
+
+1. Which one of the following is an application of Stack Data Structure?
+
+A. Managing function calls
+B. The stock span problem
+C. Arithmetic expression evaluation
+D. All of the above
+Answer: Option D
+
+2. Which one of the following is an application of Queue Data Structure?
+
+A. When a resource is shared among multiple consumers.
+B. When data is transferred asynchronously (data not necessarily received at same rate as sent) between two processes
+C. Load Balancing
+D. All of the above
+Answer: Option D
+
+3. Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?
+
+A. Insertion Sort
+B. Quick Sort
+C. Heap Sort
+D. Merge Sort
+Answer: Option D
+
+4. Which of the following is true about linked list implementation of stack?
+A. In push operation, if new nodes are inserted at the beginning of linked list, then in pop operation, nodes must be removed from end.
+B. In push operation, if new nodes are inserted at the end, then in pop operation, nodes must be removed from the beginning.
+C. Both of the above
+D. None of the above
+Answer: Option D
+
+5. Which of the following is an advantage of adjacency list representation over adjacency matrix representation of a graph?
+A. In adjacency list representation, space is saved for sparse graphs.
+B. DFS and BSF can be done in O(V + E) time for adjacency list representation. These operations take O(V^2) time in adjacency matrix representation. Here is V and E are number of vertices and edges respectively.
+C. Adding a vertex in adjacency list representation is easier than adjacency matrix representation.
+D. All of the above
+Answer: Option D
