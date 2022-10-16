@@ -769,3 +769,47 @@ C.      20%
 D.      36%
 Answer: Option c
 
+
+A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:
+A.	720
+B.	900
+C.	1200
+D.	1800
+
+Answer: Option C
+
+
+2. A cylindrical jar of radius 15 cm is filled with water up to a height of 25 cm. 15 spherical balls of radii 2 cm each are immersed in the jar. Find the new level to which water is filled in the jar. [Take π = 3.]
+A.	25.71m
+B.	32.71m
+C.	27.71m
+D.	30.71
+
+Anser: Option A
+
+
+3. 50 men took a dip in a water tank 40 m long and 20 m broad on a religious day. If the average displacement of water by a man is 4 m3, then the rise in the water level in the tank will be:
+A.	20cm
+B.	25cm
+C.	35cm
+D.	50cm
+
+Answer: Option B
+
+
+4. A cube of edge 15 cm is immersed completely in a rectangular vessel containing water. If the dimensions of the base of the vessel are 20 cm × 15 cm, find the rise in water level.
+A.	 10.25 cm
+B.	 11.25 cm
+C.	 12.25 cm
+D. 	 13.25 cm
+
+Answer: Option B
+
+
+5. The side of a cube is 15 m, find it's surface area?
+A. 	1350 m2
+B. 	1250 m2
+C. 	1300 m2
+D. 	1450 m2
+
+Answer: Option A
