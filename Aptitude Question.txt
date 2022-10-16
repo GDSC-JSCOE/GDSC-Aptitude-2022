@@ -769,3 +769,28 @@ C.      20%
 D.      36%
 Answer: Option c
 
+A trader marks his goods 45% above the cost price and gives a discount of 20% on the marked price. The gain % on goods he makes is:
+
+A.      35%
+B.      12%
+C.      26%
+D.      16%
+Answer: Option d
+
+Which of the follow successive discount is better for to a customer?
+a) 20%,15%, 10% or
+b) 25%, 12%, 8%
+
+A.      a) is better
+B.      b) is better
+C.      both a) or b) are same
+D.      None of these
+Answer: Option b
+
+If x:y = 3:2 and y:z = 6:5 then x:y:z = ?
+
+A.      9:6:4
+B.      9:6:5
+C.      3:2:0.5
+D.      3:6:5
+Answer: Option b
