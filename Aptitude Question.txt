@@ -737,7 +737,7 @@ C.	12%
 D.	15%
 Answer: C
 	
-A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+7. A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
 
 A.	120 metres
 B.	180 metres
@@ -745,7 +745,7 @@ C.	324 metres
 D.	150 metres
 Answer: Option D
 	
-A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
+8. A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:
 
 A.	45 km/hr
 B.	50 km/hr
@@ -753,7 +753,7 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
-Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+9. Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
 
 A. Rs. 5222.2
 B. Rs. 5777.7
@@ -761,11 +761,30 @@ C. Rs. 6222.2
 D. Rs. 6777.7
 Answer : Option B
 
-If the radius of a circle is diminished by 10%, then its area is diminished by:
+10. If the radius of a circle is diminished by 10%, then its area is diminished by:
 
 A.      10%
 B.      19%
 C.      20%
 D.      36%
 Answer: Option c
+
+11. A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:
+
+A.	Rs. 650
+B.	Rs. 690
+C.	Rs. 698
+D.	Rs. 700
+Answer: Option C
+
+12. Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?
+
+A.	Rs. 6400
+B.	Rs. 6500
+C.	Rs. 7200
+D.	Rs. 7500
+E.	None of these
+Answer: Option A
+
+
 
