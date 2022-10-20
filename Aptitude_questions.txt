@@ -138,3 +138,9 @@ Ans: (b) 9
 (d) 17 years
 Ans: (c) 21 years
 
+21.Which of the following will be correct after interchanging the position with each other for ÷ & = and 2 & 3?
+(a) 15 = 2+3
+(b) 5 ÷ 15 = 3
+(c) 2 = 15 ÷ 3
+(d) 3 = 2 ÷ 15
+Ans: (b) 5 ÷ 15 = 3
