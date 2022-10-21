@@ -794,3 +794,31 @@ B.      9:6:5
 C.      3:2:0.5
 D.      3:6:5
 Answer: Option b
+
+If 10 men complete a piece of work in 30 days, how many men are required to complete the same in 25 days?
+A.      35
+B.      18
+C.      12
+D.      20
+Answer: Option c
+
+Bunty can do 25% of work in 10 days. How many days will he take to complete a work equal to 5 times this work?
+A.	250 days
+B.	200 days
+C.	300 days
+D.	350 days
+Answer: Option b
+
+10 men can dig a hole in 18 days. After 6 days, 5 more men joined. After how many days the remaining work would be completed?
+A.	16 days
+B.	11 days
+C.	8 days
+D.	18 days
+Answer: Option c
+
+18 men working 8 hours a day can complete a work in 5 days. Working at a rate of 6 hours a day, the number of men required to finish the work in 10 days is?
+A.	12 days
+B.	10 days
+C.	15days
+D.	20 days
+Answer: Option A
