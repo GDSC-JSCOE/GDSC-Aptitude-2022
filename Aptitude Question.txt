@@ -753,6 +753,15 @@ C.	54 km/hr
 D.	55 km/hr
 Answer: Option B
 
+
+A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.
+
+A.	2 hours
+B.	3 hours
+C.	4 hours
+D.	5 hours
+Answer: Option C
+
 Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
 
 A. Rs. 5222.2
