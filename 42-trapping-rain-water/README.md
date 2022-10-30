@@ -1,3 +1,4 @@
+![rainwatertrap1](https://user-images.githubusercontent.com/80694110/198895221-940d5e3c-d5da-4b4d-85c8-31001aae9790.png)
 <h2><a href="https://leetcode.com/problems/trapping-rain-water/">42. Trapping Rain Water</a></h2><h3>Hard</h3><hr><div><p>Given <code>n</code>non-negative integers representing an elevation map where the width of each bar is <code>1</code>,compute how much water it can trap after raining.</p>
 
 
