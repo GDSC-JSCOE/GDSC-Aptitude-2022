@@ -120,6 +120,19 @@ P = 27
 
 Answer : 3) 27
 
+12. Find  the  15th  term  of  an  arithmetic  progression  whose  first  term  is  2  and  the  common  difference  is  3.
+1) 45
+2) 38
+3) 44
+4) 40
+Solution:
+nth term of A.P = a+(n-1)*d
+                    = 2+(15-1)*3 ,   
+                    = 2 + 42 = 44.
+                    
+Answer : 3) 44
+
+
 
 ## SECTION 2 : Data Interpretation
 
