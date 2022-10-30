@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-[![ Trapping Rain Water](https://assets.leetcode.com/uploads/2018/10/22/rainwatertrap.png)]
+![rainwatertrap1](https://user-images.githubusercontent.com/80694110/198895221-940d5e3c-d5da-4b4d-85c8-31001aae9790.png)
 <pre><strong>Input:</strong> height = [0,1,0,2,1,0,1,3,2,1,2,1]
 <strong>Output:</strong> 6
 </pre><p><strong>Example 2:</strong></p>
