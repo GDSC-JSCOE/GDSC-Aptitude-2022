@@ -2,12 +2,13 @@ class Solution {
 public:
     bool isPowerOfTwo(int n) {
         
-        for(int i=0;i<=30;i++){
-            int ans=pow(2,i);
-            if(ans==n){
-                return true;
-            }
-            
+        if(n==0)
+            return false;
+        //for a number to be power of n its log(x)[base=n] is always integer
+        if(ceil(log2(n)) == floor(log2(n)))
+            return true;
+        else
+            return false;
         }
         return false;
     }
